@@ -24,7 +24,9 @@ Please visit:
 There's already a Trello account filled with a board, some lists and some cards you may use as working example:
  - Username: trellodump@hotmail.com
  - Password: trellodumpforeverybody
+Please don't hack it... ;)
 
 Included INI implements keys of this account so you can just plug and play the script
 
 Enjoy
+
