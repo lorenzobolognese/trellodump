@@ -1,4 +1,4 @@
-# TrelloDump
+# TrelloDumper
 Python class to do boards, lists and cards exporting from Trello. Support 2 different authorization methods:
  - Trello proprietary Route (unsafe)
  - OAuth 1.0
