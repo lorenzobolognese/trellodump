@@ -4,8 +4,8 @@ Python class to do boards, lists and cards exporting from Trello. Support 2 diff
  - OAuth 1.0
 
 # Requirements
-Python 3.8
-py-trello: https://github.com/sarumont/py-trello
+ - Python 3.8
+ - py-trello: https://github.com/sarumont/py-trello
 
 # How to install py-trello
 pip install py-trello
@@ -17,7 +17,7 @@ Please visit:
 
 # Tested configuration
  - Windows 10
- - Python 3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:21:23) [MSC v.1916 32 bit (Intel)] on win32. ***
+ - Python 3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:21:23) [MSC v.1916 32 bit (Intel)] on win32
  - py-trello 0.15.0
 
 # Example
