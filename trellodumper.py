@@ -75,7 +75,7 @@ class MainData(object):
                         )
             res = 0
             excptn = None
-        except Exception as e:
+        except (KeyboardInterrupt or Exception) as e:
             res = -1
             excptn = e
         finally:
