@@ -51,9 +51,6 @@ def CreateOauthToken(expiration="30days", scope='read,write', key=None, secret=N
     # redirect you to whatever URL you have told them to redirect to. You can
     # usually define this in the oauth_callback argument as well
 
-    accepted = 'n'
-    while accepted.lower() == 'n':
-        accepted = input('Have you authorized me? (y/n) ')
     oauthVerifier = input('What is the PIN? ')
 
     # Step 3: Once the consumer has redirected the user back to the oauth_callback
